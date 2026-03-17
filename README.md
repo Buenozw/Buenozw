@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Buenozw&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/Buenozw?label=Seguidores&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Buenozw?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars" />
 </p>
 
 ---
@@ -38,8 +38,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buenozw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buenozw&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -47,11 +47,11 @@
 ## 🔥 Sequência e número de commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Buenozw&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buenozw&theme=tokyonight" />
 </p>
 
 > Esses cards mostram automaticamente dados como:
@@ -94,10 +94,10 @@ Aqui você pode colocar alguns dos seus principais projetos:
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto: jvictorcastelini2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3ovictorbueno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
