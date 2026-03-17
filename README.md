@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buenozw&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/Buenozw?label=Seguidores&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Buenozw?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Buenozw&label=Visualizações&color=ff4d4d&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Buenozw?label=Seguidores&color=7b2ff7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Buenozw?label=Stars&color=00c6ff&style=for-the-badge" />
 </p>
 
 ---
