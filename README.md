@@ -13,19 +13,6 @@
   </a>
 </p>
 
----
-
-## 🚀 Sobre mim
-
-💻 Atualmente estou aprendendo e evoluindo em:
-
-- C#
-- Java Advanced
-- QA
-- PL/SQL
-- Mobile Application
-- DevOps
-
 🎯 Meu objetivo é conquistar uma oportunidade de **estágio na área de tecnologia**, desenvolver projetos cada vez mais sólidos e crescer como desenvolvedor.
 
 ---
@@ -57,18 +44,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buenozw&theme=tokyonight" />
 </p>
 
-> Esses cards mostram automaticamente dados como:
-> - quantidade de commits
-> - sequência de contribuições
-> - repositórios
-> - atividade geral no GitHub
-
 ---
 
 ## 📚 Atualmente estudando
 
 - Estruturas e boas práticas em **C#**
-- Desenvolvimento com **Java**
+- Desenvolvimento com **Java** avançado
 - Banco de dados com **PL/SQL**
 - Testes e qualidade de software com **QA**
 - Desenvolvimento **Mobile**
