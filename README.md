@@ -25,6 +25,17 @@
 
 ---
 
+## 🚀 Sobre mim
+
+💻 Atualmente estou aprendendo e evoluindo em:
+
+- C#
+- Java Advanced
+- QA
+- PL/SQL
+- Mobile Application
+- DevOps
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
