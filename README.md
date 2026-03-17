@@ -1,13 +1,16 @@
-<h1 align="center">Olá, eu sou João Victor Bueno Castelini da Silva 👋</h1>
+<h1 align="center">Olá, eu sou João Victor Bueno👋</h1>
 
 <p align="center">
   Estudante de ADS na FIAP Paulista • Em busca de estágio • Apaixonado por tecnologia
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buenozw&label=Visualizações&color=ff4d4d&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Buenozw?label=Seguidores&color=7b2ff7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Buenozw?label=Stars&color=00c6ff&style=for-the-badge" />
+  <a href="https://github.com/Buenozw">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-Buenozw-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Buenozw?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Check-8a2be2?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
