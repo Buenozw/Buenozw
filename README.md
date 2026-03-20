@@ -65,12 +65,6 @@ Busco minha primeira oportunidade de estágio na área de tecnologia para aplica
 
 ## 📌 Projetos em destaque
 
-Aqui você pode colocar alguns dos seus principais projetos:
-
-- Sistema em Java
-- Projeto em C#
-- Aplicação Mobile
-- Exercícios de PL/SQL
 - Projetos acadêmicos da FIAP
 
 ---
