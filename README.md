@@ -2,6 +2,7 @@
 
 <p align="center">
   Estudante de ADS na FIAP Paulista • Em busca de estágio • Apaixonado por tecnologia
+  Atualmente trabalhando como jovem aprendiz a Estapar
 </p>
 
 <p align="center">
