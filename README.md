@@ -14,11 +14,11 @@
   </a>
 </p>
 
-🎯 Meu objetivo é conquistar uma oportunidade de **estágio na área de tecnologia**, desenvolver projetos cada vez mais sólidos e crescer como desenvolvedor.
+Meu objetivo é conquistar uma oportunidade de **estágio na área de tecnologia**, desenvolver projetos cada vez mais sólidos e crescer como desenvolvedor.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,sqlite,mysql,git,github,vscode,idea,androidstudio,docker" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 🔥 Sequência e número de commits
+## Sequência e número de commits
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Buenozw&theme=tokyonight&hide_border=false" />
@@ -70,7 +70,7 @@ Busco minha primeira oportunidade de estágio na área de tecnologia para aplica
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="mailto: jvictorcastelini2006@gmail.com">
